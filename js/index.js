@@ -52,7 +52,7 @@ switch (key) {
             tom4.play();
             break;
     default:
-        console.log("You are pressing the wrong button");
+        alert("You are pressing the wrong button");
         break;
 }
 }
